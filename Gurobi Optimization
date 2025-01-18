@@ -1,0 +1,17 @@
+Gurobi Optimization: The Leader in Decision Intelligence
+
+gurobi
+https://www.gurobi.com/
+
+Global MINLP Optimality, Plus More Performance Improvements
+With Gurobi 12.0, users can solve complex nonlinear problems to global optimality, 
+and achieve superior performance across all mixed-integer optimizations thanks in part to more efficient use of CPU cores.
+
+In addition, thread-based load balancing maximizes hardware utilization when running multiple jobs
+on our Compute Server and Cluster Manager, while our revamped documentation offers a more streamlined, user-friendly experience.
+
+https://www.gurobi.com/whats-new-gurobi-12-0/
+
+Performance Improvements
+As with every major release, Gurobi continues to push the boundaries of solver performance. 
+With Gurobi 12.0, users can expect the following speed-ups compared to the previous version:
